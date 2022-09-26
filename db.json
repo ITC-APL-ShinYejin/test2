@@ -1,3 +1,5 @@
+{
+[
   {
     "pageInfo": {
             "totalPageCount": 1,
@@ -59,3 +61,5 @@
             "msgInfo": 5
     }
   }
+]
+}
